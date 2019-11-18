@@ -1,7 +1,7 @@
 {
   "salons": [
     { 
-      "_id": "5d713995b721c3bb38c1f5d0", 
+      "id": "5d713995b721c3bb38c1f5d0", 
       "user": "5d7a514b5d2c12c7449be045",
       "name": "Purple Hair Salon",
       "description": "Purple Hair Salon is a full service hair salon specializing in hair straightening, hair coloring and highlights, the including Ombre Hair and Hair Extensions.",
